@@ -2,3 +2,9 @@
   color: red;
   font-style: italic;
 }
+
+.best {
+  font-weight: bold;
+  font-family: impact;
+  color: blue;
+}
