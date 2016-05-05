@@ -8,3 +8,29 @@
   font-family: impact;
   color: blue;
 }
+
+footer.worst {
+  font-family: garamond;
+  text-align: center;
+}
+
+.cupcake-type {
+  color: brown;
+  font-size: 24px;
+  font-style: oblique;
+  font-family: Arial;
+}
+
+.navbar {
+  font-size: 22px;
+  text-decoration: underline;
+}
+
+li {
+  color: red;
+  font-style: italic;
+}
+
+.image {
+  float: left;
+}
