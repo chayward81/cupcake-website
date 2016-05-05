@@ -11,7 +11,7 @@
 
 footer.worst {
   font-family: garamond;
-  text-align: center;
+  clear: left;
 }
 
 .cupcake-type {
@@ -21,16 +21,25 @@ footer.worst {
   font-family: Arial;
 }
 
-.navbar {
+.navbar li {
   font-size: 22px;
   text-decoration: underline;
-}
-
-li {
   color: red;
   font-style: italic;
+  display: inline;
+  
 }
 
 .image {
+  float: left;
+}
+.sidebar {
+  background-color: purple;
+  color: yellow;
+  width: 15%;
+}
+
+.columns {
+  width: 300px;
   float: left;
 }
